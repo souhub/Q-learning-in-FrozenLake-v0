@@ -4,7 +4,7 @@ Example of applying Q-learning to FrozenLake-v0.
 
 ## Result
 
-Success rate per 1000 episodes.<br/>
+Success rate per 1000 episodes.<br/><br/>
 ![result](success_rate.png)</br>
 
 ## Reference
